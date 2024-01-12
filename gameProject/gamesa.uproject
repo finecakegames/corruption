@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.2",
@@ -33,40 +32,4 @@
 			"Enabled": true
 		}
 	]
-=======
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.2",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "Landmass",
-			"Enabled": true
-		},
-		{
-			"Name": "SunPosition",
-			"Enabled": true
-		},
-		{
-			"Name": "HDRIBackdrop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCG",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGGeometryScriptInterop",
-			"Enabled": true
-		}
-	]
->>>>>>> 395c315a13bd5b4500d89135abdbb8fb2e39541b
 }
